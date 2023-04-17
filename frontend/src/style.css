@@ -1,0 +1,38 @@
+.form {
+    border: 2px solid #ddd;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form input {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .form button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form button:hover {
+    background-color: #0062cc;
+  }
+  
+  .form .error {
+    color: red;
+    margin-top: 5px;
+  }
+  
